@@ -1,0 +1,70 @@
+.Form {
+  border: 1px solid #CACBCC;
+  border-radius: 5px;
+  background: #E6E8EA;
+  padding: 15px;
+}
+.Form .input {
+  margin-bottom: 15px;
+  border: 1px solid #CACBCC;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100%;
+  height: 20px;
+}
+.Form-name {
+  margin-bottom: 15px;
+  border: 1px solid #CACBCC;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100%;
+  height: 20px;
+}
+.Form-password {
+  margin-bottom: 15px;
+  border: 1px solid #CACBCC;
+  border-radius: 5px;
+  padding: 5px;
+  width: 100%;
+  height: 20px;
+}
+.Form-bottom {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: justify;
+      justify-content: space-between;
+  color: #A0A1A2;
+  font-size: 12px;
+  margin-top: 15px;
+  height: 25px;
+  line-height: 25px;
+}
+.Form-bottomForgot {
+  text-decoration: none;
+  color: #A0A1A2;
+}
+.Form-bottomForgot:hover {
+  color: #568CC3;
+}
+.Button {
+  height: 35px;
+  width: 100%;
+  border-radius: 5px;
+  background: linear-gradient(#5ec5e4, #2098BC);
+  border: none;
+  color: #ffffff;
+  box-shadow: 0 5px 5px -3px #197E9D;
+}
+.Button:active {
+  background: #5ec5e4;
+}
+.u-width250 {
+  width: 250px;
+  margin: 200px auto;
+}
+.Image {
+  /*width: 100%;*/
+}
+.Image-top {
+  width: 100%;
+}
